@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dana-po/cat-friends/static/css/main.47d4bed1.css",
+    "main.js": "/dana-po/cat-friends/static/js/main.efcc090d.js",
+    "static/js/592.84b58dcf.chunk.js": "/dana-po/cat-friends/static/js/592.84b58dcf.chunk.js",
+    "static/media/SEGA.woff": "/dana-po/cat-friends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/dana-po/cat-friends/index.html",
+    "main.47d4bed1.css.map": "/dana-po/cat-friends/static/css/main.47d4bed1.css.map",
+    "main.efcc090d.js.map": "/dana-po/cat-friends/static/js/main.efcc090d.js.map",
+    "592.84b58dcf.chunk.js.map": "/dana-po/cat-friends/static/js/592.84b58dcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d4bed1.css",
+    "static/js/main.efcc090d.js"
+  ]
+}
