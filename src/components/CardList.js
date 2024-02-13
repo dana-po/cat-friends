@@ -2,6 +2,9 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({ cats }) => {
+  // if(true){
+  //  throw new Error('No...')
+  // }
   return (
     <div>
       {cats.map((user, i) => {
