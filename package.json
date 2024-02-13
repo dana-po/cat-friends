@@ -1,6 +1,6 @@
 {
   "name": "cats-react",
-  "homepage": "https://github.com/dana-po/cat-friends",
+  "homepage": "https://dana-po.github.io/cat-friends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
